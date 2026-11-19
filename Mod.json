@@ -1,0 +1,14 @@
+{
+	"geode": "6.0.0-alpha.2",
+	"gd": {
+		"android": "2.2091",
+		"win": "2.2091",
+		"mac": "2.2091",
+		"ios": "2.2091"
+	},
+	"id": "yourname.my-first-mod",
+	"name": "icon changer",
+	"version": "v1.0.0",
+	"developer": "Nexoskk",
+	"description": "now you can chnage your icons to a photo of your choice"
+}
